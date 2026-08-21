@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("Hello git 3 v3")
-=======
-print("Hello git 3 v login")
->>>>>>> login
+print ("Hello desde ejemplo 3")
