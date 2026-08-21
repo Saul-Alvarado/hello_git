@@ -1,3 +1,6 @@
 print("Login")
 
-print ("Bienvenido has realizado login")
+
+print ("Ingrese su usuario")
+print ("Ingrese su password")
+
